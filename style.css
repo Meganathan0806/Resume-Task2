@@ -1,5 +1,6 @@
 body{
     font-family: "Open Sans", sans-serif;
+  
 
   
 }
@@ -37,229 +38,7 @@ margin-bottom: 40px;
     margin-bottom: 20px;
 
 }
-.item1{
-    display: flex;
-    background-color: gray;
-    color: black;
-    height: 8vh;
-    font-size: 15px;
-justify-content: center;
-justify-content: space-evenly;
-margin-left: 40px;
-margin-right: 40px;
-}
-.item2{
-    display: flex;
-    background-color: whitesmoke;
-    color:black;
-    height: 8vh;
-    font-size: 15px;
-justify-content: center;
-justify-content: space-evenly;
-margin-left: 40px;
-margin-right: 40px;
-margin-top: 10px;
-}
-.item2 h1{
-    margin-right: 100px;
-}
-.item3{
-    display: flex;
-    background-color: gray;
-    color:black;
-    height: 8vh;
-    font-size: 15px;
-justify-content: center;
-justify-content: space-evenly;
-margin-left: 40px;
-margin-right: 40px;
-margin-top: 10px;
-}
-.item3 h1{
- margin-right: 88px;
-}
-.item4{
-    display: flex;
-    background-color: whitesmoke;
-    color:black;
-    height: 8vh;
-    font-size: 15px;
-justify-content: center;
-justify-content: space-evenly;
-margin-left: 40px;
-margin-right: 40px;
-margin-top: 10px;
-}
-.item4 h1{
- margin-right: 88px;
-}
-.item5{
-    display: flex;
-    background-color: gray;
-    color:black;
-    height: 8vh;
-    font-size: 15px;
-justify-content: center;
-justify-content: space-evenly;
-margin-left: 40px;
-margin-right: 40px;
-margin-top: 10px;
-}
-.item5 h1{
- margin-right: 57px;
-}
-.item6{
-    display: flex;
-    background-color: whitesmoke;
-    color:black;
-    height: 8vh;
-    font-size: 15px;
-justify-content: center;
-justify-content: space-evenly;
-margin-left: 40px;
-margin-right: 40px;
-margin-top: 10px;
-}
-.item6 h1{
- margin-right: 120px;
-}
-.item7{
-    display: flex;
-    background-color: gray;
-    color:black;
-    height: 8vh;
-    font-size: 15px;
-justify-content: center;
-justify-content: space-evenly;
-margin-left: 40px;
-margin-right: 40px;
-margin-top: 10px;
-}
-.item7 h1{
- margin-right: 160px;
-}
-.item8{
-    display: flex;
-    background-color: whitesmoke;
-    color:black;
-    height: 8vh;
-    font-size: 15px;
-justify-content: center;
-justify-content: space-evenly;
-margin-left: 40px;
-margin-right: 40px;
-margin-top: 10px;
-}
-.item8 h1{
- margin-right: 160px;
- margin-left: -90px;
-}
-.headtea h1{
-    margin-top: 100px;
-    text-align: center;
-    color: #996639;
-    font-size: 40px;
-    font-weight: 500;
-    margin-bottom: 80px;
-}
-.item1{
-    display: flex;
-    background-color: gray;
-    color: black;
-    height: 8vh;
-    font-size: 15px;
-justify-content: center;
-justify-content: space-evenly;
-margin-left: 40px;
-margin-right: 40px;
-}
-.item2{
-    display: flex;
-    background-color: whitesmoke;
-    color:black;
-    height: 8vh;
-    font-size: 15px;
-justify-content: center;
-justify-content: space-evenly;
-margin-left: 40px;
-margin-right: 40px;
-margin-top: 10px;
-}
 
-.item3{
-    display: flex;
-    background-color: gray;
-    color:black;
-    height: 8vh;
-    font-size: 15px;
-justify-content: center;
-justify-content: space-evenly;
-margin-left: 40px;
-margin-right: 40px;
-margin-top: 10px;
-}
-
-.item4{
-    display: flex;
-    background-color: whitesmoke;
-    color:black;
-    height: 8vh;
-    font-size: 15px;
-justify-content: center;
-justify-content: space-evenly;
-margin-left: 40px;
-margin-right: 40px;
-margin-top: 10px;
-}
-.item4 h1{
- margin-right: 88px;
-}
-.item5{
-    display: flex;
-    background-color: gray;
-    color:black;
-    height: 8vh;
-    font-size: 15px;
-justify-content: center;
-justify-content: space-evenly;
-margin-left: 40px;
-margin-right: 40px;
-margin-top: 10px;
-}
-
-.item6{
-    display: flex;
-    background-color: whitesmoke;
-    color:black;
-    height: 8vh;
-    font-size: 15px;
-justify-content: center;
-justify-content: space-evenly;
-margin-left: 40px;
-margin-right: 40px;
-margin-top: 10px;
-}
-
-.item7{
-    display: flex;
-    background-color: gray;
-    color:black;
-    height: 8vh;
-    font-size: 15px;
-justify-content: center;
-justify-content: space-evenly;
-margin-left: 40px;
-margin-right: 40px;
-margin-top: 10px;
-}
-#items h1{
-    margin-top: 80px;
-    text-align: center;
-    color: #996639;
-   font-size: 35px;
-   font-weight: 500;
-    margin-bottom: 90px;
-}
 .coffeepic{
     display: flex;
   gap: 100px;
@@ -344,6 +123,106 @@ margin-top: 10px;
     margin-left: 400px;
     margin-right: 400px;
     color: rgba(0, 0, 0, 0.759);
+}
+.lastimg{
+    display: flex;
+    height: 13vh;
+  margin-left: 550px;
+  margin-top: 40px;
+  gap: 20px;
+}
+#pic2{
+    height: 11vh;
+    margin-top: 6px;
+}
+#pic3{
+    height: 13vh;
+    margin-top: 2px;
+}
+#menu1{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: gray;
+    
+  
+    
+}
+#menu1 h1{
+    color: black;
+}
+#menu2{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+    color: black;
+   
+      
+            
+}
+#menu2 h1{
+    margin-right: 60px;
+}
+#menu3{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: gray;            
+}
+#menu3 h1{
+    margin-right: 60px;
+    color: black;
+}
+#menu4{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: whitesmoke;            
+}
+#menu4 h1{
+    margin-right: 60px;
+    color: black;
+}
+#menu5{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: gray;            
+}
+#menu5 h1{
+    margin-right: 60px;
+    color: black;
+}
+#menu6{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: whitesmoke;            
+}
+#menu6 h1{
+    margin-right: 60px;
+    color: black;
+}
+#menu7{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: gray;            
+}
+#menu7 h1{
+    margin-right: 60px;
+    color: black;
+}
+#menu8{
+    display: flex;
+   justify-content: space-evenly;
+    background-color: whitesmoke;            
+}
+#menu8 h1{
+    margin-right: 60px;
+    color: black;
+}
+.cofmenu{
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+.tea2{
+    margin-top: 50px;
 }
 
 
